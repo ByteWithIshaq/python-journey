@@ -33,8 +33,6 @@ print(type(e))
 
 #So whenever we take input from the user, it is always in string format.
 
-input ("Please enter your name :")
-
 name = input("Please enter your name :")
 print("kaise ho bhai", name)
 
